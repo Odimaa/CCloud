@@ -198,18 +198,18 @@ header {
   margin-right: -2px;
 }
 
-.cta-btn {
+.cta-btns {
   font-size: 1.6rem;
-  background-color: #fff;
+  background-color: white;
   padding: 0.9rem 1.8rem;
-  color: #fff;
+  color: black;
   border-radius: 0.4rem;
   transition: background-color 0.5s;
   border-color: #fff;
 }
 
-.cta-btn:hover,
-.cta-btn:focus {
+.cta-btns:hover,
+.cta-btns:focus {
   color: #fff;
   background-color: #c59d5f;
 }
