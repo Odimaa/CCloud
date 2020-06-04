@@ -87,16 +87,17 @@ header {
 
 /******************** Hero area ***********************/
 
+ 
+
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/images/joanna-kosinska-7ACuHoezUYk-unsplash.jpg") center no-repeat;
+  background: url("assets/images/travel.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
   text-align: center;
 }
-
 .headline {
   color: #fff;
   font-size: 3.0rem;
